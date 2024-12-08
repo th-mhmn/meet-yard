@@ -99,11 +99,6 @@
   }
 }
 
-
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
-
 * {
   margin: 0;
   padding: 0;
@@ -164,9 +159,8 @@
 
 .cl-socialButtonsIconButton__github,
 .cl-badge {
-  filter: invert(1)
+  filter: invert(1);
 }
-
 
 .cl-logoBox {
   height: 40px;
